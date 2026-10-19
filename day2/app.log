@@ -1,0 +1,7 @@
+2026-10-15 09:00:01 INFO job started
+2026-10-15 09:00:05 INFO loaded 1000 rows
+2026-10-15 09:01:10 WARN slow query
+2026-10-15 09:02:30 ERROR connection timeout
+2026-10-15 09:03:00 INFO retry 1
+2026-10-15 09:03:20 ERROR connection timeout
+2026-10-15 09:04:00 INFO job finished
